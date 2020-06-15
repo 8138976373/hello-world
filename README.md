@@ -6,4 +6,5 @@ echo "Hello! Welcome to PHP World!!!";
 EchO " Hai Welcome!! "
 print "Study PHP!!!"
      //print or  output Statements .PHP  statements end with a semicolon(;).In PHP , keywords,classes,functions and user defined functions are not case sensitive.
-?>//
+
+?> //php code end here.
